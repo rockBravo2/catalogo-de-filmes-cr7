@@ -1,0 +1,27 @@
+body{
+  color:#5d08ef;
+  background: rgb(22, 7, 113);
+  margin: 0px;
+}
+
+header{
+  border-bottom: solid 2px rgb(92, 38, 255);
+  font-size: 42px;
+  padding: 20px;
+  background: rgb(48, 11, 215);
+  color: rgb(0, 0, 0);
+  font-family: "Alfa Slab One", serif;
+}
+
+section{
+   background:rgb(0, 0, 0);
+   padding-top:80px;
+   padding-bottom: 80px;
+   display: flex;
+   justify-content: center;
+   font-family: "Alfa Slab One", serif;
+} 
+
+.chamada-texto{
+   margin-right: 5%;
+}
